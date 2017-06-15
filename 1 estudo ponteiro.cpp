@@ -1,12 +1,14 @@
 #include<stdio.h>
 
+// ele vai mudar 
+
 int main (void) {
 	
-	int x=10;
+	int x=5;
 	int*ponteiro;
 	ponteiro= &x;
 	
-	int y = 20;
+	int y = 50;
 	*ponteiro = y;
 	
 	
@@ -16,6 +18,6 @@ int main (void) {
 	  
 	
 	
-	
+	//termina aqui
 	
 }
